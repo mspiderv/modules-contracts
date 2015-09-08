@@ -1,0 +1,15 @@
+{
+    "name": "vitlabs/modules-contracts",
+    "description": "Contracts for modules manager.",
+    "authors": [
+		{
+			"name": "Matej Vitaz",
+			"email": "mspiderv@gmail.com"
+		}
+	],
+    "autoload": {
+        "psr-4": {
+            "Vitlabs\\ModulesContracts\\": ""
+        }
+    }
+}
